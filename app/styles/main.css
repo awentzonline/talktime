@@ -37,6 +37,7 @@ body {
   padding-top: 19px;
   color: #777;
   border-top: 1px solid #e5e5e5;
+  text-align: center;
 }
 
 .container-narrow > hr {
@@ -52,15 +53,6 @@ body {
 .jumbotron .btn {
   font-size: 21px;
   padding: 14px 24px;
-}
-
-/* Supporting marketing content */
-.marketing {
-  margin: 40px 0;
-}
-
-.marketing p + h4 {
-  margin-top: 28px;
 }
 
 /* Responsive: Portrait tablets and up */
